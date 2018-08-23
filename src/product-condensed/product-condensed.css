@@ -1,0 +1,9 @@
+.pc-condensed a{
+    margin-right: 25px;
+}
+.pc-condensed {
+    text-align: left;
+}
+.pc-condensed p {
+    display: inline-block;
+}
