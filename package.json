@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "ajv": "^6.10.0",
+    "ajv": "^6.12.3",
     "ajv-keywords": "^3.4.0",
     "jquery": "^3.5.0",
     "react": "^16.8.6",
