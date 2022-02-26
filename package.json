@@ -9,7 +9,7 @@
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "1.1.4",
-    "url-parse": "^1.4.7",
+    "url-parse": "^1.5.8",
     "whatwg-fetch": "^2.0.4"
   },
   "scripts": {
