@@ -8,7 +8,7 @@
     "jquery": "^3.5.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-scripts": "1.1.4",
+    "react-scripts": "5.0.1",
     "url-parse": "^1.4.7",
     "whatwg-fetch": "^2.0.4"
   },
